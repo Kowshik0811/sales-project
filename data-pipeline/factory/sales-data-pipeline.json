@@ -1,0 +1,9 @@
+{
+	"name": "sales-data-pipeline",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6ac06170-34b8-4bc1-b1a3-ea4592452dd5",
+		"tenantId": "57d53d07-63ef-43a0-b8e2-3b11be73a25f"
+	}
+}
